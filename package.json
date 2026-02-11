@@ -25,9 +25,8 @@
     "eslint-config-next": "^16.0.10",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3"
-  }
+  },
   "engines": {
-  "node": "20.x"
-}
-
+    "node": "20.x"
+  }
 }
