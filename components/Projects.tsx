@@ -8,21 +8,21 @@ export default function Projects() {
             id: 'community',
             title: 'Safe School Transport Initiative',
             category: 'Community Infrastructure',
-            description: 'Diaspora-funded safe pupil transport scheme with independent cost control and contractor oversight ensuring funds were properly used.',
+            description: 'Concept design and costing support for safe pupil transport schemes and community infrastructure.',
             icon: <Users className="w-8 h-8" />
         },
         {
             id: 'infrastructure',
             title: 'Residential Construction Oversight',
             category: 'Diaspora Home Projects',
-            description: 'Complete monitoring of multiple residential builds for diaspora clients including site inspections, quality checks, and fraud prevention.',
+            description: 'Engineering and cost advisory for small to mid-scale construction and infrastructure initiatives.',
             icon: <Building2 className="w-8 h-8" />
         },
         {
             id: 'health',
             title: 'EdoCare Safe Motherhood Programme',
             category: 'Health Infrastructure',
-            description: 'Diaspora-backed health access improvement with comprehensive project design, cost control framework, and implementation oversight.',
+            description: 'Programme design and cost-control framework improving antenatal access, safe delivery, and emergency referrals.',
             icon: <Heart className="w-8 h-8" />
         }
     ];
