@@ -63,7 +63,7 @@ export default function Hero() {
                                     ))}
                                 </div>
                                 <span className="text-xs text-gray-700">
-                                    Supporting developers, communities & organisations
+                                    Supporting individuals, developers, organisations & government initiatives
                                 </span>
                             </motion.a>
 
@@ -73,9 +73,9 @@ export default function Hero() {
                                 viewport={{ once: true }}
                                 transition={{ type: "spring", stiffness: 250, damping: 70, mass: 1, delay: 0.1 }}
                             >
-                                Protect Your Nigerian Projects <br />
+                                Project Management & Engineering Consultancy  <br />
                                 <span className="bg-clip-text text-transparent bg-linear-to-r from-[#F37335] to-[#E05920]">
-                                    From Anywhere in the World
+                                    For Reliable Projects
                                 </span>
                             </motion.h1>
 
@@ -85,8 +85,8 @@ export default function Hero() {
                                 viewport={{ once: true }}
                                 transition={{ type: "spring", stiffness: 250, damping: 70, mass: 1, delay: 0.2 }}
                             >
-                                WillTech Engineering provides complete oversight, monitoring and verification of your construction and infrastructure projects in Nigeria. With teams in both Nigeria and the UK, we ensure transparency, security and guaranteed progress—giving you peace of mind that your investment is protected.
-                            </motion.p>
+                            WillTech Engineering Limited provides project management, cost consultancy and construction support services for private, institutional and public sector projects across Nigeria.
+                                We support clients from early planning through delivery with structured, transparent and professional guidance.                            </motion.p>
 
                             <motion.div className="flex flex-col sm:flex-row items-center gap-4 mb-8"
                                 initial={{ y: 60, opacity: 0 }}
@@ -103,7 +103,7 @@ export default function Hero() {
 
                                 <GhostButton className="max-sm:w-full max-sm:justify-center py-3 px-5">
                                     <PlayIcon className="size-4" />
-                                    Chat on WhatsApp
+                                    Our Services
                                 </GhostButton>
                             </motion.div>
 
