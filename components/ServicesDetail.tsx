@@ -29,12 +29,6 @@ export default function ServicesDetail() {
                                 <h3 className="text-2xl font-semibold mb-3 text-gray-900">{service.title}</h3>
                                 <p className="text-gray-700 mb-6 max-w-2xl">{service.description}</p>
 
-                                {service.ideal && (
-                                    <p className="text-sm text-[#F37335] mb-6 italic font-medium">
-                                        Perfect for: {service.ideal}
-                                    </p>
-                                )}
-
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                                     {service.services.map((item, idx) => (
                                         <motion.div
