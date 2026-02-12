@@ -128,9 +128,9 @@ export default function Hero() {
                                 <div className="flex items-center gap-2 p-2 px-3 sm:px-6.5 hover:bg-orange-200/40 transition-colors">
                                     <CheckIcon className="size-4" style={{ color: '#F37335' }} />
                                     <div>
-                                        <div className="text-gray-900 font-semibold">Fraud Prevention</div>
+                                        <div className="text-gray-900 font-semibold">Fat Paced</div>
                                         <div className="text-xs text-gray-600">
-                                            Protection from scams
+                                            Timely Delivery
                                         </div>
                                     </div>
                                 </div>
