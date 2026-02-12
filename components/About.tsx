@@ -6,7 +6,7 @@ export default function About() {
         <section id="about" className="py-20 2xl:py-32">
             <div className="max-w-6xl mx-auto px-4">
                 <Title
-                    title="About Us"
+                    title="About Willtech"
                     heading="Your Trusted Project Guardian"
                     description="Protecting Nigerian investments from diaspora with integrity and transparency"
                 />
@@ -19,13 +19,11 @@ export default function About() {
                     className="max-w-3xl mx-auto bg-orange-50/60 border border-orange-200/60 rounded-2xl p-8 md:p-10 shadow-sm"
                 >
                     <p className="text-gray-700 text-lg leading-relaxed mb-6">
-                        WillTech Engineering Ltd is a Nigeria-registered engineering and project support company dedicated to protecting the interests of Nigerians in the diaspora. We understand the unique challenges you face when investing in construction and infrastructure projects back home.
-                    </p>
+                        WillTech Engineering Limited is a Nigerian-registered engineering and project management consultancy supporting construction and infrastructure delivery.                    </p>
                     <p className="text-gray-700 text-lg leading-relaxed mb-6">
-                        Too often, diaspora investors fall victim to fraud and mismanagement by untrustworthy contractors and project managers. Distance and trust issues make it difficult to ensure projects progress as promised.
-                    </p>
+                        We work with private clients, developers, institutions and public sector teams to provide practical project management, cost control and technical support from concept to completion.                    </p>
                     <p className="text-gray-700 text-lg leading-relaxed">
-                        That's where we come in. With professional teams in both Nigeria and the UK, we provide independent oversight, verification, and monitoring of every aspect of your project. From initial surveys to final handover, we ensure complete transparency, guarantee progress, and protect you from being scammed.
+                        Our focus is on helping clients deliver well-planned, properly costed and responsibly executed projects.
                     </p>
                 </motion.div>
             </div>
