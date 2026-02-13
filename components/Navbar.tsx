@@ -22,8 +22,11 @@ export default function Navbar() {
             transition={{ type: "spring", stiffness: 250, damping: 70, mass: 1 }}
         >
             <div className='max-w-6xl mx-auto flex items-center justify-between bg-white/80 backdrop-blur-md border border-orange-200/60 rounded-2xl p-3 shadow-sm'>
-                <a href='/#'>
+                {/* <a href='/#'>
                     <img src='/logo.svg' alt="logo" className="h-8" />
+                </a> */}
+                    <a href='/#'>
+                    <span className="text-lg font-bold text-[#F37335]">WillTechs LTD</span>
                 </a>
 
                 <div className='hidden md:flex items-center gap-8 text-sm font-medium text-gray-700'>
